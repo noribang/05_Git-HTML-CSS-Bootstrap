@@ -12,6 +12,22 @@
 	* strong 
 	* a href 
 	* img  
+
+# Bootstrap (http://getbootstrap.com/getting-started/#download)
+	* CDN
+	* Download directly into project
+* class="container"
+* class="jumbotron"
+* Helper classes (http://getbootstrap.com/css/#helper-classes)
+	* bg-success
+	* bg-info
+	* well
+	* panel panel-default
+	* panel panel-info
+		* panel-body
+	* panel-heading
+		* panel-title
+
 # Unix commands
 * cd 
 * cd ..
@@ -21,12 +37,6 @@
 * ls -a
 * cp -R SOURCE-FOLDER-FILE DESTINATION-FOLDER-FILE
 	* cp -R 02_Git-HTML-CSS/01my-first-webpage/my-first-webpage.html 03_Git-HTML-CSS/
-
-# Bootstrap (http://getbootstrap.com/getting-started/#download)
-	* CDN
-	* Download directly into project
-* class="container"
-* class="jumbotron"
 
 # Git commands
 * git init
